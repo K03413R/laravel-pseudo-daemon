@@ -1,5 +1,5 @@
 {
-    "name": "resolute/laravel-pseudo-daemon",
+    "name": "janecek/laravel-pseudo-daemon",
     "description": "A Laravel package to mimic daemons via scheduled commands without having to change server configuration.",
     "type": "library",
     "license": "MIT",
